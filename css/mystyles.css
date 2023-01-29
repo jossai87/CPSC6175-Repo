@@ -1,0 +1,16 @@
+body {
+    padding: 80px; /* some padding */
+    text-align: center; /* center the text */
+    background: white; /* green background */
+    color: black; /* white text color */
+  }
+  
+  /* Increase the font size of the <h1> element */
+body h1 {
+    font-size: 40px;
+  }
+
+.container .fa-check {
+    font-size: 36px;
+    color: red;
+}
